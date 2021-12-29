@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Query-Simple-Project/static/css/main.8c1b2c95.chunk.css",
-    "main.js": "/React-Query-Simple-Project/static/js/main.9e0ba2ac.chunk.js",
-    "main.js.map": "/React-Query-Simple-Project/static/js/main.9e0ba2ac.chunk.js.map",
+    "main.js": "/React-Query-Simple-Project/static/js/main.e9898ff6.chunk.js",
+    "main.js.map": "/React-Query-Simple-Project/static/js/main.e9898ff6.chunk.js.map",
     "runtime-main.js": "/React-Query-Simple-Project/static/js/runtime-main.6dda29a9.js",
     "runtime-main.js.map": "/React-Query-Simple-Project/static/js/runtime-main.6dda29a9.js.map",
     "static/js/2.01babcfc.chunk.js": "/React-Query-Simple-Project/static/js/2.01babcfc.chunk.js",
     "static/js/2.01babcfc.chunk.js.map": "/React-Query-Simple-Project/static/js/2.01babcfc.chunk.js.map",
     "index.html": "/React-Query-Simple-Project/index.html",
-    "precache-manifest.7518cca57859afcf9ba7c21f3da42331.js": "/React-Query-Simple-Project/precache-manifest.7518cca57859afcf9ba7c21f3da42331.js",
+    "precache-manifest.12f71ba2bd7146c9bf7c490a0bcf22da.js": "/React-Query-Simple-Project/precache-manifest.12f71ba2bd7146c9bf7c490a0bcf22da.js",
     "service-worker.js": "/React-Query-Simple-Project/service-worker.js",
     "static/css/main.8c1b2c95.chunk.css.map": "/React-Query-Simple-Project/static/css/main.8c1b2c95.chunk.css.map",
     "static/js/2.01babcfc.chunk.js.LICENSE.txt": "/React-Query-Simple-Project/static/js/2.01babcfc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6dda29a9.js",
     "static/js/2.01babcfc.chunk.js",
     "static/css/main.8c1b2c95.chunk.css",
-    "static/js/main.9e0ba2ac.chunk.js"
+    "static/js/main.e9898ff6.chunk.js"
   ]
 }
